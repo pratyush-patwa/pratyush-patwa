@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Healthcare Products at Oracle Cerner
+- 🔭 I’m currently working on Healthcare Products at Oracle
 - 🌱 I’m currently learning Design Pattern
 - 👯 I’m looking to collaborate on Data Structure & Algorithm
 
